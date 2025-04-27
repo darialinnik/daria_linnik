@@ -17,6 +17,7 @@
 ---
 
 ### 💼 Tech Stack
+![JavaSctipt](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=plastic)
