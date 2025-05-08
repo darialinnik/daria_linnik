@@ -24,9 +24,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=plastic)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
-
----
-
-### 📬 Let’s Talk
-- 💌 Email: darialinnik@proton.me  
-- 🤝 LinkedIn: https://www.linkedin.com/in/daria-linnik-71280634a/
