@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVuMml6b2ZqdHV2dDI3OHVkZHkwYnMzYnVnbGt6eHA4M2tpbzFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAnpMSHcurJVS/giphy.gif" align="right" width="300" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVuMml6b2ZqdHV2dDI3OHVkZHkwYnMzYnVnbGt6eHA4M2tpbzFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAnpMSHcurJVS/giphy.gif" align="right" width="200" />
 
 ```js
 const daria = {
